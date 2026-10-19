@@ -1,0 +1,13 @@
+{
+  "name": "blocks",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "private": true,
+  "dependencies": {
+    "three": "^0.170.0",
+    "ws": "^8.18.0"
+  },
+  "type": "module"
+}
